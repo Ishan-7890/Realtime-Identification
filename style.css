@@ -1,0 +1,26 @@
+.heading
+{
+    font-family: cursive;
+    font-size:23px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 5px coral;
+}
+.heading:hover
+{
+    background: rgb(255,29,0);
+background: linear-gradient(90deg, rgba(255,29,0,0.9051995798319328) 12%, rgba(254,191,0,1) 42%, rgba(224,251,0,1) 63%, rgba(164,255,13,1) 82%, rgba(0,255,102,1) 100%);
+}
+.heading_div
+{
+    float:none;
+    background: rgb(67,251,63);
+    padding: 10px;
+    border-radius: 20px;
+    color: lemonchiffon;
+    box-shadow: 5px 5px 5px blueviolet;
+}
+.heading_div2
+{
+    font-size: 18px;
+}
